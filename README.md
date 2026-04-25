@@ -1,10 +1,10 @@
 Hi, I'm Sidar.
 
-🎓 Senior Computer Engineering student at Karadeniz Technical University, focused on Artificial Intelligence and Quantum Machine Learning.
-🧠 Mainly working with Python and building projects in machine learning, quantum computing, and practical AI applications.  
-🔹 I also have previous experience in backend development with Go.
+🎓 Senior Computer Engineering student at Karadeniz Technical University, focused on Artificial Intelligence and Quantum Machine Learning.  
+🧠 Mainly working with Python and building projects in machine learning, quantum computing, and practical AI applications.     
+🔹 I also have previous experience in backend development with Go.  
 
-🔬 Currently researching hybrid classical-quantum models for medical diagnosis and exploring Reinforcement Learning (Q-Learning → Deep RL).
+🔬 Currently researching hybrid classical-quantum models for medical diagnosis and exploring Reinforcement Learning (Q-Learning → Deep RL).  
 
 ⚙️ Python • Go • scikit-learn • Qiskit • NumPy • Pandas • OpenCV • Git • Jupyter
 
